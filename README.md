@@ -14,7 +14,7 @@ Le but est ici de retrouver sur toutes les machines que j'administre les mêmes 
 
 ## Comment faire cela ?
 
-Pour effezctuer ce suivi, j'utilise le programme libre `chezmoi` décrit sur [son site web](https://www.chezmoi.io) ou son [repo github](https://github.com/twpayne/chezmoi).
+Pour effectuer ce suivi, j'utilise le programme libre `chezmoi` décrit sur [son site web](https://www.chezmoi.io) ou son [repo github](https://github.com/twpayne/chezmoi).
 
 Se référer à la documentaion du programme pour connaître les commandes à appliquer.
 
