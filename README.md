@@ -20,6 +20,8 @@ Se référer à la documentaion du programme pour connaître les commandes à ap
 
 Ce programme est basé sur `git`.
 
+Un autre programme assez similaire s'appelle [yadm](https://yadm.io/). Basé sur git également. A tester. Peut-être un peu moins difficile (mais rencontré plsu tôt) au niveau de la syntaxe des templates.
+
 ## Notes
 
 Je ne souhaite pas pour l'instant "suivre" beaucoup de fichiers, ceci afin de me familiariser avec l'outil.
