@@ -20,7 +20,7 @@ Se référer à la documentaion du programme pour connaître les commandes à ap
 
 Ce programme est basé sur `git`.
 
-Un autre programme assez similaire s'appelle [yadm](https://yadm.io/). Basé sur git également. A tester. Peut-être un peu moins difficile (mais rencontré plus tôt) au niveau de la syntaxe des templates.
+Un autre programme assez similaire s'appelle [yadm](https://yadm.io/). Basé sur git également. A tester. Peut-être un peu moins difficile (mais rencontré plus tôt) au niveau de la syntaxe des templates. Un article y est consacré dans [Linux pratique n° 119](https://boutique.ed-diamond.com).
 
 ## Notes
 
